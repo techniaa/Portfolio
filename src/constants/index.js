@@ -70,14 +70,14 @@ export const myProjects = [
 
 export const mySocials = [
   {
-    name: "WhatsApp",
-    href: "",
-    icon: "/assets/socials/whatsapp.svg",
+    name: "Github",
+    href: "https://github.com/techniaa",
+    icon: "/assets/socials/github.png",
   },
   {
     name: "LinkedIn",
     href: "https://www.linkedin.com/in/neha-shah-056332247/",
-    icon: "/assets/socials/linkedin.svg",
+    icon: "/assets/socials/linkedIn.svg",
   },
   {
     name: "Instagram",
@@ -85,9 +85,9 @@ export const mySocials = [
     icon: "/assets/socials/instagram.svg",
   },
   {
-    
     name: "Medium",
     href: "https://medium.com/@nehagc8485",
+     icon: "/assets/socials/medium.png",
   }
 ];
 
@@ -96,7 +96,7 @@ export const experiences = [
   {
     title: "Research Analyst",
     job: "Bootup360",
-    date: "Jan 2024 – Mar 2024",
+    date: "Jun 2025 – Sep 2025",
     contents: [
       "Delivered actionable insights on the MSME sector through analysis of policies, funding opportunities, and market growth trends.",
       "Developed research reports that supported strategic decisions for digital transformation initiatives aimed at small businesses.",
