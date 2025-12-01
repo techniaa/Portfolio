@@ -3,6 +3,8 @@ import Navbar from "./sections/Navbar.jsx";
 import Hero from "./sections/Hero.jsx";
 import About from "./sections/About.jsx";
 import Projects from "./sections/Projects.jsx";
+import Experience  from "./sections/Experience.jsx";
+
 const App=()=>{
   return <div className="container mx-auto max-w-7xl">
     
@@ -10,9 +12,7 @@ const App=()=>{
     <Hero />
    <About/>
    <Projects/>
-    <section className="min-h-screen"/>
-    <section className="min-h-screen"/>
-    <section className="min-h-screen"/>
+   <Experience/>
     <section className="min-h-screen"/>
     <section className="min-h-screen"/>
     
